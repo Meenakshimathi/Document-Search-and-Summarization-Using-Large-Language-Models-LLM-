@@ -1,0 +1,10 @@
+Artificial Intelligence enables machines to mimic human intelligence.
+Machine Learning is a subset of AI focused on data-driven models.
+Deep Learning uses neural networks with multiple layers.
+Natural Language Processing allows machines to understand human language.
+Computer Vision helps machines interpret visual data.
+Large Language Models are trained on massive text corpora.
+Transformers are the backbone of modern LLM architectures.
+FAISS is a library for efficient similarity search of dense vectors.
+Retrieval Augmented Generation combines search with text generation.
+Vector databases store embeddings for semantic search.
